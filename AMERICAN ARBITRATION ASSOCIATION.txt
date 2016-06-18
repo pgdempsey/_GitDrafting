@@ -24,6 +24,9 @@ FINAL REVISION.  FOR REAL.
 
 The and instructions are set forth in Exhibits A and B, respectively. 
 =======
+=======
+
+>>>>>>> Something-Else
 I am not sure if this will be another branch or not.
 >>>>>>> Something-Else
 
